@@ -1,0 +1,126 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: wavy;
+    text-transform: lowercase;
+    text-overflow: clip;
+    text-rendering: auto;
+    margin: 0px;
+}
+.JoJoIntro{
+    border-color: black;
+    border-style: dotted;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: white;
+    font-size: medium;
+}
+
+.Title{
+    text-align: center;
+    text-size-adjust: initial;
+    text-decoration: dotted;
+    text-decoration-line: inherit;
+}
+
+.JonathanJoestar{
+    background-color: rgb(22, 30, 103);
+    color: white;
+    border-color: lightblue;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.JoJo1PB{
+    text-align: center;
+    text-decoration: double;
+}
+
+#JPB{
+    text-align: center;
+}
+.JosephJoestar{
+    background-color: #332c1f;
+    color: white;
+    border-color: lightslategray;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.JoJo2BT{
+    text-align: center;
+    text-decoration: double;
+}
+
+.JotaroKujo{
+    background-color: #040509;
+    color: white;
+    border-color: silver;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.JosukeHigashikata{
+    background-color: #422552;
+    color: white;
+    border-color: #e83e56;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.GiornoGiovanna{
+    background-color: #8f692d;
+    color: white;
+    border-color: #9a3616;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.JolyneCujoh{
+    background-color: #698a51;
+    color: white;
+    border-color: darkgreen;
+    border-style: dotted;
+    border-radius: 10px;
+}
+
+.JohnnyJoestar{
+    background-color: #77b5d5;
+    border-color: white;
+    border-style: dotted;
+    border-radius: 10px;
+}
+#stUniverse{
+    border: 2px;
+    border-style: solid;
+}
+
+#ndUniverse{
+    border: 2px;
+    border-style: solid;
+}
+
+.Stands{
+    background-color: #000f40;
+    color: white;
+    border-color: white;
+    border-style: dotted;
+}
+
+.Videos{
+    border: 2px solid;
+
+}
+
+.Video0{
+    height: fit-content;
+    width: auto;
+}
+.V1{
+    width: 20%;
+    height: fit-content;
+}
+
+.V2{
+    width: 20%;
+    height: fit-content;
+}
